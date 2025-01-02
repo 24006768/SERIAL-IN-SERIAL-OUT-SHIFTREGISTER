@@ -2,7 +2,7 @@ NAME: DAKSHA C
 
 REGISTER NO: 24006768
 
-EXPERIMENT 6 SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+EXPERIMENT 6 SERIAL IN SERIAL OUT SHIFT REGISTER
 
 **AIM:**
 
@@ -45,11 +45,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 **RTL LOGIC FOR SISO SHIFT REFGISTER**
 
-![2](https://github.com/user-attachments/assets/f308ae5e-1c2c-4444-ba46-bfae6302a8a7)
-
-**TIMING DIGRAMS FOR SISO SHIFT REGISTER**
-
-![3](https://github.com/user-attachments/assets/81c85ba5-fd1d-4c1f-8e25-0bb93a4df40b)
+![image](https://github.com/user-attachments/assets/8a8f50ae-0b90-4c14-a9a1-b0ad94e24167)
 
 **RESULTS**
 
